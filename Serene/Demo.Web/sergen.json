@@ -1,0 +1,10 @@
+﻿{
+  "RootNamespace": "Demo",
+  "ServerTypings": {
+    "Assemblies": [],
+    "LocalTexts": true
+  },
+  "Connections": [],
+  "BaseRowClasses": [],
+  "RemoveForeignFields": []
+}
